@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsncrypt",
+        "uuid": 6060076,
+        "checksum": "dh2qv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
